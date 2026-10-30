@@ -1,0 +1,6 @@
+{
+  "name": "ChapterFlow PDF Reader",
+  "description": "High-performance chapterwise PDF mobile reader with offline caching, dynamic TOC breakdown, and real-time reading progress synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
